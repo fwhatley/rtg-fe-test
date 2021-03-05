@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays a CartItem with its details 1`] = `
+<div
+  className="product cell small-12 grid-x grid-margin-x"
+  id="14100476"
+>
+  <div
+    className="product-image cell small-2"
+  >
+    <img
+      alt="Sofia Vergara Gabriele Buff Leather Sofa"
+      src="https://assets.roomstogo.com/sofia-vergara-gabriele-buff-leather-sofa_14100476_image-item?cache-id=02297e6e25cb0a31c2fe581e2ff4e3a1&h=550"
+    />
+  </div>
+  <div
+    className="product-title cell small-3"
+  >
+    Sofia Vergara Gabriele Buff Leather Sofa
+  </div>
+  <div
+    className="product-sku cell small-2"
+  >
+    14100476
+  </div>
+  <div
+    className="product-price cell small-2"
+  >
+    $
+    655
+  </div>
+  <div
+    className="product-add-to-cart cell small-2"
+  >
+    <div
+      className="grid-x grid-margin-x text-center"
+    >
+      <div
+        className="cell auto align-self-middle"
+      >
+        Qty:
+      </div>
+      <div>
+        <button
+          data-testid="decrement"
+          onClick={[Function]}
+        >
+          -
+        </button>
+      </div>
+      <div
+        className="cell small-3 align-self-middle"
+        style={
+          Object {
+            "width": 19,
+          }
+        }
+      >
+        3
+      </div>
+      <div>
+        <button
+          data-testid="increment"
+          onClick={[Function]}
+        >
+          +
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    className="cell small-1 small-1"
+  >
+    <button
+      className="align-self-middle button alert"
+      data-testid="remove"
+      onClick={[Function]}
+    >
+      Remove
+    </button>
+  </div>
+</div>
+`;

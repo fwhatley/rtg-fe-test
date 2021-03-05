@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays CartTotals with no products 1`] = `
+<div
+  className="cell small-12"
+  style={
+    Object {
+      "paddingTop": 50,
+    }
+  }
+>
+  <div
+    className="grid-x"
+  >
+    <div
+      className="cell small-3"
+    >
+      SUBTOTAL
+    </div>
+    <div
+      className="cell small-3"
+    >
+      $ 
+      0.00
+    </div>
+  </div>
+  <div
+    className="grid-x"
+  >
+    <div
+      className="cell small-3"
+    >
+      TAX @10%
+    </div>
+    <div
+      className="cell small-3"
+    >
+      $ 
+      0.00
+    </div>
+  </div>
+  <div
+    className="grid-x"
+  >
+    <div
+      className="cell small-3"
+    >
+      SHIPPING COST
+    </div>
+    <div
+      className="cell small-3"
+    >
+      $ 
+      50.00
+    </div>
+  </div>
+  <div
+    className="grid-x"
+  >
+    <div
+      className="cell small-3"
+    >
+      <strong>
+        TOTAL
+      </strong>
+    </div>
+    <div
+      className="cell small-3"
+    >
+      <strong>
+        $ 
+        50.00
+      </strong>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`displays CartTotals with some products 1`] = `
+<div
+  className="cell small-12"
+  style={
+    Object {
+      "paddingTop": 50,
+    }
+  }
+>
+  <div
+    className="grid-x"
+  >
+    <div
+      className="cell small-3"
+    >
+      SUBTOTAL
+    </div>
+    <div
+      className="cell small-3"
+    >
+      $ 
+      9164.94
+    </div>
+  </div>
+  <div
+    className="grid-x"
+  >
+    <div
+      className="cell small-3"
+    >
+      TAX @10%
+    </div>
+    <div
+      className="cell small-3"
+    >
+      $ 
+      916.49
+    </div>
+  </div>
+  <div
+    className="grid-x"
+  >
+    <div
+      className="cell small-3"
+    >
+      SHIPPING COST
+    </div>
+    <div
+      className="cell small-3"
+    >
+      $ 
+      188.30
+    </div>
+  </div>
+  <div
+    className="grid-x"
+  >
+    <div
+      className="cell small-3"
+    >
+      <strong>
+        TOTAL
+      </strong>
+    </div>
+    <div
+      className="cell small-3"
+    >
+      <strong>
+        $ 
+        10269.73
+      </strong>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays CartItems with no products 1`] = `
+<div
+  className="product-list grid-x grid-margin-y"
+/>
+`;
+
+exports[`displays CartItems with some products 1`] = `
+<div
+  className="product-list grid-x grid-margin-y"
+>
+  <div
+    className="product cell small-12 grid-x grid-margin-x"
+    id="14100476"
+  >
+    <div
+      className="product-image cell small-2"
+    >
+      <img
+        alt="Sofia Vergara Gabriele Buff Leather Sofa"
+        src="https://assets.roomstogo.com/sofia-vergara-gabriele-buff-leather-sofa_14100476_image-item?cache-id=02297e6e25cb0a31c2fe581e2ff4e3a1&h=550"
+      />
+    </div>
+    <div
+      className="product-title cell small-3"
+    >
+      Sofia Vergara Gabriele Buff Leather Sofa
+    </div>
+    <div
+      className="product-sku cell small-2"
+    >
+      14100476
+    </div>
+    <div
+      className="product-price cell small-2"
+    >
+      $
+      655
+    </div>
+    <div
+      className="product-add-to-cart cell small-2"
+    >
+      <div
+        className="grid-x grid-margin-x text-center"
+      >
+        <div
+          className="cell auto align-self-middle"
+        >
+          Qty:
+        </div>
+        <div>
+          <button
+            data-testid="decrement"
+            onClick={[Function]}
+          >
+            -
+          </button>
+        </div>
+        <div
+          className="cell small-3 align-self-middle"
+          style={
+            Object {
+              "width": 19,
+            }
+          }
+        >
+          3
+        </div>
+        <div>
+          <button
+            data-testid="increment"
+            onClick={[Function]}
+          >
+            +
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="cell small-1 small-1"
+    >
+      <button
+        className="align-self-middle button alert"
+        data-testid="remove"
+        onClick={[Function]}
+      >
+        Remove
+      </button>
+    </div>
+  </div>
+  <div
+    className="product cell small-12 grid-x grid-margin-x"
+    id="14100464"
+  >
+    <div
+      className="product-image cell small-2"
+    >
+      <img
+        alt="Sofia Vergara Gabriele Gray Leather Sofa"
+        src="https://assets.roomstogo.com/sofia-vergara-gabriele-gray-leather-sofa_14100464_image-item?cache-id=0f38b84c8df483db59baf25c80ec9558&h=550"
+      />
+    </div>
+    <div
+      className="product-title cell small-3"
+    >
+      Sofia Vergara Gabriele Gray Leather Sofa
+    </div>
+    <div
+      className="product-sku cell small-2"
+    >
+      14100464
+    </div>
+    <div
+      className="product-price cell small-2"
+    >
+      $
+      799.99
+    </div>
+    <div
+      className="product-add-to-cart cell small-2"
+    >
+      <div
+        className="grid-x grid-margin-x text-center"
+      >
+        <div
+          className="cell auto align-self-middle"
+        >
+          Qty:
+        </div>
+        <div>
+          <button
+            data-testid="decrement"
+            onClick={[Function]}
+          >
+            -
+          </button>
+        </div>
+        <div
+          className="cell small-3 align-self-middle"
+          style={
+            Object {
+              "width": 19,
+            }
+          }
+        >
+          3
+        </div>
+        <div>
+          <button
+            data-testid="increment"
+            onClick={[Function]}
+          >
+            +
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="cell small-1 small-1"
+    >
+      <button
+        className="align-self-middle button alert"
+        data-testid="remove"
+        onClick={[Function]}
+      >
+        Remove
+      </button>
+    </div>
+  </div>
+  <div
+    className="product cell small-12 grid-x grid-margin-x"
+    id="15028954"
+  >
+    <div
+      className="product-image cell small-2"
+    >
+      <img
+        alt="Eric Church Highway To Home Headliner Brown Leather Dual Power Reclining Sofa"
+        src="https://assets.roomstogo.com/eric-church-highway-to-home-headliner-brown-leather-dual-power-reclining-sofa_15028954_image-item?cache-id=8482ef95ee5c0969960610f8306212d8&h=550"
+      />
+    </div>
+    <div
+      className="product-title cell small-3"
+    >
+      Eric Church Highway To Home Headliner Brown Leather Dual Power Reclining Sofa
+    </div>
+    <div
+      className="product-sku cell small-2"
+    >
+      15028954
+    </div>
+    <div
+      className="product-price cell small-2"
+    >
+      $
+      1599.99
+    </div>
+    <div
+      className="product-add-to-cart cell small-2"
+    >
+      <div
+        className="grid-x grid-margin-x text-center"
+      >
+        <div
+          className="cell auto align-self-middle"
+        >
+          Qty:
+        </div>
+        <div>
+          <button
+            data-testid="decrement"
+            onClick={[Function]}
+          >
+            -
+          </button>
+        </div>
+        <div
+          className="cell small-3 align-self-middle"
+          style={
+            Object {
+              "width": 19,
+            }
+          }
+        >
+          3
+        </div>
+        <div>
+          <button
+            data-testid="increment"
+            onClick={[Function]}
+          >
+            +
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="cell small-1 small-1"
+    >
+      <button
+        className="align-self-middle button alert"
+        data-testid="remove"
+        onClick={[Function]}
+      >
+        Remove
+      </button>
+    </div>
+  </div>
+</div>
+`;
